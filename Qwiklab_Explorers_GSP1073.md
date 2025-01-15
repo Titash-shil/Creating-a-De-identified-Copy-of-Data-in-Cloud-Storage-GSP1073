@@ -1,4 +1,4 @@
-# || Creating a De-identified Copy of Data in Cloud Storage || [GSP1073](https://www.cloudskillsboost.google/focuses/47127?parent=catalog)
+# Creating a De-identified Copy of Data in Cloud Storage || [GSP1073](https://www.cloudskillsboost.google/focuses/47127?parent=catalog) || 
 
 ## # Like, comment, share & Don't forget to subscribe [Qwiklab_Explorers_ts](https://youtube.com/@titashshil?si=RgamNu1dc9jVIbJN) 👍😄🤝
 
@@ -10,11 +10,11 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/Monitoring-and-Managing-Bigtable-Health-and-Performance-GSP1056/refs/heads/main/qwiklab_explorers_ts_gsp1056.sh
+curl -LO raw.githubusercontent.com/Titash-shil/Creating-a-De-identified-Copy-of-Data-in-Cloud-Storage-GSP1073/refs/heads/main/qwiklab_explorers_gsp1073.sh
 
-sudo chmod +x qwiklab_explorers_ts_gsp1056.sh
+sudo chmod +x qwiklab_explorers_gsp1073.sh
 
-./qwiklab_explorers_ts_gsp1056.sh
+./qwiklab_explorers_gsp1073.sh
 ```
 
 ---
